@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    background-color: lightgrey;
+
+}
+
+.top-bar{
+    background-color: steelblue;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}
+
+.top-link{
+    padding: 16px;
+    color: white;
+}
+
+.first-img{
+    height: 500px;
+}
+
+.table{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.imgtravel{
+    width: 300px;
+    height: 200px;
+}
+
+.table-row-1{
+    padding-right: 16px;
+    
+}
+
+.block{
+    background-color: white;
+}
+
+p{
+    margin-top: 0;
+    padding: 16px
+}
+
+.special{
+    padding-bottom:0;
+    padding-top: 0;
+    margin: 0;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 0;
+}
+.content{
+    margin: 0 100px;
+}
+
+.para{
+    padding-bottom: 0;
+}
+.para1{
+    padding-top: 0
+}
+.about, .contact{
+    padding-top: 50px;
+}
+
+.form{
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid grey;
+    margin-top: 20px;
+}
+
+.name, .email, .number{
+    width: 90%;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    padding: 10px;
+    margin: 14px;
+    font-size: 1rem;
+    color: dimgrey
+}
+.button{
+    background-color: darkblue;
+    color: white;
+    padding: 10px 15px;
+    margin: 30px 260px
+}
+
+
